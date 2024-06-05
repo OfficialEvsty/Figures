@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jiztg8JaZZVwdenOPON12kSPV+5THOleniDR8YmHzvEc80rSpcBMrcNIs49GzZcPjVjL3C2nQw2UwAK6CySjag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wwwww\\source\\repos\\GeometryLib\\GeometryLib\\GeometryLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wwwww\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XXPRqaqN2mbpgnJPaoTAh5E/zpHaGK4OfTlzuOmWZ6QXa72PmW8uVjpBXQ23lAq/3VP41yUGmXyRIG65oUlXVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wwwww\\source\\repos\\GeometryLib\\FiguresTest\\FiguresTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wwwww\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
