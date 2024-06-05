@@ -65,11 +65,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wwwww\\source\\repos\\GeometryLib\\GeometryLib\\GeometryLib.csproj",
+      "projectUniqueName": "C:\\Users\\wwwww\\source\\repos\\Figures\\GeometryLib\\GeometryLib.csproj",
       "projectName": "GeometryLib",
-      "projectPath": "C:\\Users\\wwwww\\source\\repos\\GeometryLib\\GeometryLib\\GeometryLib.csproj",
+      "projectPath": "C:\\Users\\wwwww\\source\\repos\\Figures\\GeometryLib\\GeometryLib.csproj",
       "packagesPath": "C:\\Users\\wwwww\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wwwww\\source\\repos\\GeometryLib\\GeometryLib\\obj\\",
+      "outputPath": "C:\\Users\\wwwww\\source\\repos\\Figures\\GeometryLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wwwww\\AppData\\Roaming\\NuGet\\NuGet.Config",

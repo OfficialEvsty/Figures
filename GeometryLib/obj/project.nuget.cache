@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jiztg8JaZZVwdenOPON12kSPV+5THOleniDR8YmHzvEc80rSpcBMrcNIs49GzZcPjVjL3C2nQw2UwAK6CySjag==",
+  "dgSpecHash": "ioKzDf7so39qRNT3yPU1iQGqm1r27n1H+FOPYP/jI+ew0vZM+rWNI9XQ51V0AFFaHxTgg37r/RAqwEzlrmdJpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wwwww\\source\\repos\\GeometryLib\\GeometryLib\\GeometryLib.csproj",
+  "projectFilePath": "C:\\Users\\wwwww\\source\\repos\\Figures\\GeometryLib\\GeometryLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wwwww\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
   ],
